@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 -180 960 900" width="960" height="900">
+<rect x="-60" y="-180" width="960" height="900" fill="#f4ede1"/>
+<polygon points="-10,646 60,632 250,497 180,511" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="96,632 150,646 340,511 286,497" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="150,646 150,664 340,529 340,511" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="159,452 96,632 286,497 349,317" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="418,430 167,430 357,295 608,295" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="400,646 494,632 684,497 590,511" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="167,430 288,85 478,-50 357,295" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="606,632 692,646 882,511 796,497" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="692,646 692,664 882,529 882,511" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="368,0 606,632 796,497 558,-135" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="282,0 368,0 558,-135 472,-135" fill="#f4ede1" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+<path d="M282,0 L368,0 L606,632 L692,646 L692,664 L400,664 L400,646 L494,632 L426,452 L159,452 L96,632 L150,646 L150,664 L-10,664 L-10,646 L60,632 Z M288,85 L418,430 L167,430 Z" fill="#f4ede1" fill-rule="evenodd" stroke="#2a1c15" stroke-width="2" stroke-linejoin="round"/>
+</svg>
